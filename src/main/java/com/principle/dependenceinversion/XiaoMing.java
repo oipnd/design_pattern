@@ -39,7 +39,7 @@ public class XiaoMing {
         this.icourse = icourse;
     }
 
-    public void study(){
+    public void study() {
         icourse.studyCourse();
     }
 

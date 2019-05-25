@@ -2,35 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a3060e6-f677-4de3-907e-0afe33c6a249" name="Default Changelist" comment="factory pattern">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/CsGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/CsGameArticle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/CsGameFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/GameFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/LeagueGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/LeagueGameArticle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/LeagueGameFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/factoryMethod/CsGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/factoryMethod/CsGameFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/factoryMethod/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/factoryMethod/GameFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/factoryMethod/LeagueGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/factoryMethod/LeagueGameFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/factoryMethod/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/factoryMethod/工厂方法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/simpleFactory/CsGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/simpleFactory/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/simpleFactory/GameFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/simpleFactory/LeagueGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/simpleFactory/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/simpleFactory/简单工厂.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/工厂方法总结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/builder/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/builder/GameActualBulider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/builder/GameBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/builder/GameCompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/builder/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/builder/commonBuilder/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/builder/commonBuilder/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/builder/建造者模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/prototype/RedBag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/prototype/RedBagUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/prototype/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/prototype/clone/Pig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/prototype/clone/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/prototype/clone/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/prototype/原型模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/singleton/HungrySingleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/GameFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/GameFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pattern/creational/factoryMethod/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/factoryMethod/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pattern/creational/simpleFactory/GameFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/simpleFactory/GameFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pattern/creational/simpleFactory/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pattern/creational/simpleFactory/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/principle/dependenceinversion/JavaCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/principle/dependenceinversion/JavaCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/principle/dependenceinversion/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/principle/dependenceinversion/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/principle/dependenceinversion/XiaoMing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/principle/dependenceinversion/XiaoMing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/principle/openclose/GolangDiscoutCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/principle/openclose/GolangDiscoutCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/principle/openclose/ICourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/principle/openclose/ICourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/principle/openclose/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/principle/openclose/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/principle/openclose/GolangDiscoutCourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/principle/openclose/GolangDiscoutCourse.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,265 +48,130 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/CsGameFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-              <folding>
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#290#291#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/Game.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/LeagueGameFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-              <folding>
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#237#238#0" expanded="true" />
-                <element signature="e#272#273#0" expanded="true" />
-                <element signature="e#299#300#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/CsGameArticle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#116#117#0" expanded="true" />
-                <element signature="e#152#153#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/prototype/原型模式.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="416">
+                <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/prototype/clone/Test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/prototype/RedBag.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+              <folding>
+                <element signature="e#168#169#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#284#285#0" expanded="true" />
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/prototype/clone/Pig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#318#319#0" expanded="true" />
+                <element signature="e#349#350#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#416#417#0" expanded="true" />
+                <element signature="e#448#449#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/prototype/clone/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/prototype/RedBagUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/prototype/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/simpleFactory/GameFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+            <state relative-caret-position="243">
+              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/CsGame.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/simpleFactory/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="154">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/singleton/HungrySingleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/com.pattern.creational.abstactFactory">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>com.pattern.creational.abstactFactory</OriginalElement>
-              <nodes>
-                <node x="10.5" y="186.5">com.pattern.creational.abstactFactory.LeagueGame</node>
-                <node x="188.5" y="186.5">com.pattern.creational.abstactFactory.LeagueGameArticle</node>
-                <node x="100.37675438596483" y="303.0">com.pattern.creational.abstactFactory.LeagueGameFactory</node>
-                <node x="574.0267543859649" y="0.0">com.pattern.creational.abstactFactory.Article</node>
-                <node x="271.1057017543859" y="431.0">com.pattern.creational.abstactFactory.Test</node>
-                <node x="600.5" y="186.5">com.pattern.creational.abstactFactory.CsGame</node>
-                <node x="631.9267543859648" y="303.0">com.pattern.creational.abstactFactory.CsGameFactory</node>
-                <node x="424.5" y="175.0">com.pattern.creational.abstactFactory.GameFactory</node>
-                <node x="739.5" y="186.5">com.pattern.creational.abstactFactory.CsGameArticle</node>
-                <node x="258.52675438596486" y="0.0">com.pattern.creational.abstactFactory.Game</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="com.pattern.creational.abstactFactory.Test" target="com.pattern.creational.abstactFactory.Game">
-                  <point x="-57.375" y="-27.5" />
-                  <point x="290.2307017543859" y="411.0" />
-                  <point x="0.0" y="411.0" />
-                  <point x="0.0" y="105.0" />
-                  <point x="267.44342105263155" y="105.0" />
-                  <point x="-44.583333333333314" y="27.5" />
-                </edge>
-                <edge source="com.pattern.creational.abstactFactory.LeagueGame" target="com.pattern.creational.abstactFactory.Game">
-                  <point x="0.0" y="-27.5" />
-                  <point x="83.5" y="115.0" />
-                  <point x="285.27675438596486" y="115.0" />
-                  <point x="-26.75" y="27.5" />
-                </edge>
-                <edge source="com.pattern.creational.abstactFactory.CsGameFactory" target="com.pattern.creational.abstactFactory.CsGame">
-                  <point x="-35.200000000000045" y="-39.0" />
-                  <point x="684.7267543859648" y="273.0" />
-                  <point x="654.0" y="273.0" />
-                  <point x="0.0" y="27.5" />
-                </edge>
-                <edge source="com.pattern.creational.abstactFactory.GameFactory" target="com.pattern.creational.abstactFactory.Article">
-                  <point x="39.0" y="-39.0" />
-                  <point x="541.5" y="155.0" />
-                  <point x="622.3600877192982" y="155.0" />
-                  <point x="-9.666666666666629" y="27.5" />
-                </edge>
-                <edge source="com.pattern.creational.abstactFactory.LeagueGameArticle" target="com.pattern.creational.abstactFactory.Article">
-                  <point x="0.0" y="-27.5" />
-                  <point x="296.5" y="145.0" />
-                  <point x="603.0267543859649" y="145.0" />
-                  <point x="-29.0" y="27.5" />
-                </edge>
-                <edge source="com.pattern.creational.abstactFactory.LeagueGameFactory" target="com.pattern.creational.abstactFactory.GameFactory">
-                  <point x="86.40000000000003" y="-39.0" />
-                  <point x="294.77675438596486" y="283.0" />
-                  <point x="450.5" y="283.0" />
-                  <point x="-52.0" y="39.0" />
-                </edge>
-                <edge source="com.pattern.creational.abstactFactory.CsGameFactory" target="com.pattern.creational.abstactFactory.GameFactory">
-                  <point x="-70.39999999999998" y="-39.0" />
-                  <point x="649.526754385965" y="283.0" />
-                  <point x="554.5" y="283.0" />
-                  <point x="52.0" y="39.0" />
-                </edge>
-                <edge source="com.pattern.creational.abstactFactory.Test" target="com.pattern.creational.abstactFactory.LeagueGameFactory">
-                  <point x="-19.125" y="-27.5" />
-                  <point x="328.4807017543859" y="401.0" />
-                  <point x="208.37675438596483" y="401.0" />
-                  <point x="0.0" y="39.0" />
-                </edge>
-                <edge source="com.pattern.creational.abstactFactory.GameFactory" target="com.pattern.creational.abstactFactory.Game">
-                  <point x="-39.0" y="-39.0" />
-                  <point x="463.5" y="125.0" />
-                  <point x="320.94342105263155" y="125.0" />
-                  <point x="8.916666666666686" y="27.5" />
-                </edge>
-                <edge source="com.pattern.creational.abstactFactory.LeagueGameFactory" target="com.pattern.creational.abstactFactory.Article">
-                  <point x="0.0" y="-39.0" />
-                  <point x="208.37675438596483" y="283.0" />
-                  <point x="178.0" y="283.0" />
-                  <point x="178.0" y="135.0" />
-                  <point x="583.6934210526315" y="135.0" />
-                  <point x="-48.33333333333337" y="27.5" />
-                </edge>
-                <edge source="com.pattern.creational.abstactFactory.LeagueGameFactory" target="com.pattern.creational.abstactFactory.LeagueGameArticle">
-                  <point x="43.19999999999999" y="-39.0" />
-                  <point x="251.57675438596482" y="273.0" />
-                  <point x="296.5" y="273.0" />
-                  <point x="0.0" y="27.5" />
-                </edge>
-                <edge source="com.pattern.creational.abstactFactory.Test" target="com.pattern.creational.abstactFactory.Article">
-                  <point x="57.375" y="-27.5" />
-                  <point x="404.9807017543859" y="411.0" />
-                  <point x="926.0" y="411.0" />
-                  <point x="926.0" y="75.0" />
-                  <point x="680.3600877192982" y="75.0" />
-                  <point x="48.33333333333337" y="27.5" />
-                </edge>
-                <edge source="com.pattern.creational.abstactFactory.Test" target="com.pattern.creational.abstactFactory.GameFactory">
-                  <point x="19.125" y="-27.5" />
-                  <point x="366.7307017543859" y="401.0" />
-                  <point x="502.5" y="401.0" />
-                  <point x="0.0" y="39.0" />
-                </edge>
-                <edge source="com.pattern.creational.abstactFactory.CsGame" target="com.pattern.creational.abstactFactory.Game">
-                  <point x="0.0" y="-27.5" />
-                  <point x="654.0" y="115.0" />
-                  <point x="338.77675438596486" y="115.0" />
-                  <point x="26.75" y="27.5" />
-                </edge>
-                <edge source="com.pattern.creational.abstactFactory.CsGameFactory" target="com.pattern.creational.abstactFactory.Article">
-                  <point x="35.200000000000045" y="-39.0" />
-                  <point x="755.1267543859649" y="283.0" />
-                  <point x="729.0" y="283.0" />
-                  <point x="729.0" y="95.0" />
-                  <point x="641.6934210526315" y="95.0" />
-                  <point x="9.666666666666629" y="27.5" />
-                </edge>
-                <edge source="com.pattern.creational.abstactFactory.LeagueGameFactory" target="com.pattern.creational.abstactFactory.Game">
-                  <point x="-43.19999999999999" y="-39.0" />
-                  <point x="165.17675438596484" y="283.0" />
-                  <point x="167.0" y="283.0" />
-                  <point x="167.0" y="125.0" />
-                  <point x="303.1100877192982" y="125.0" />
-                  <point x="-8.916666666666686" y="27.5" />
-                </edge>
-                <edge source="com.pattern.creational.abstactFactory.CsGameFactory" target="com.pattern.creational.abstactFactory.Game">
-                  <point x="0.0" y="-39.0" />
-                  <point x="719.9267543859648" y="283.0" />
-                  <point x="718.0" y="283.0" />
-                  <point x="718.0" y="105.0" />
-                  <point x="356.6100877192982" y="105.0" />
-                  <point x="44.583333333333314" y="27.5" />
-                </edge>
-                <edge source="com.pattern.creational.abstactFactory.CsGameFactory" target="com.pattern.creational.abstactFactory.CsGameArticle">
-                  <point x="70.39999999999998" y="-39.0" />
-                  <point x="790.3267543859649" y="283.0" />
-                  <point x="827.5" y="283.0" />
-                  <point x="0.0" y="27.5" />
-                </edge>
-                <edge source="com.pattern.creational.abstactFactory.LeagueGameFactory" target="com.pattern.creational.abstactFactory.LeagueGame">
-                  <point x="-86.39999999999998" y="-39.0" />
-                  <point x="121.97675438596485" y="283.0" />
-                  <point x="83.5" y="283.0" />
-                  <point x="0.0" y="27.5" />
-                </edge>
-                <edge source="com.pattern.creational.abstactFactory.CsGameArticle" target="com.pattern.creational.abstactFactory.Article">
-                  <point x="0.0" y="-27.5" />
-                  <point x="827.5" y="85.0" />
-                  <point x="661.0267543859649" y="85.0" />
-                  <point x="29.0" y="27.5" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="-43.5" y="207.5" />
-              <SelectedNodes />
-              <Categories>
-                <Category>Fields</Category>
-                <Category>Constructors</Category>
-                <Category>Methods</Category>
-                <Category>Inner Classes</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/LeagueGame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="286">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="13" />
+              <folding>
+                <element signature="e#274#275#0" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -336,10 +203,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/principle/openclose/ICourse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/principle/openclose/GolangCourse.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/principle/openclose/GolangCourseTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/principle/openclose/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/principle/openclose/GolangDiscoutCourse.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/principle/openclose/开闭原则.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/principle/dependenceinversion/StudyCourse.java" />
@@ -353,7 +216,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/Game.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/GameFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/simpleFactory/GameFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/simpleFactory/简单工厂.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/simpleFactory/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/simpleFactory/CsGame.java" />
@@ -372,6 +234,26 @@
         <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/CsGameFactory.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/simpleFactory/GameFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/builder/Company.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/builder/GameBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/builder/Game.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/builder/GameActualBulider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/builder/GameCompany.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/builder/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/builder/commonBuilder/Game.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/builder/commonBuilder/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/builder/建造者模式.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/protype/原型模式.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/工厂方法总结.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/prototype/RedBagUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/prototype/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/prototype/RedBag.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/prototype/clone/Pig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/prototype/clone/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/prototype/原型模式.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/singleton/HungrySingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pattern/creational/prototype/clone/Test1.java" />
       </list>
     </option>
   </component>
@@ -472,7 +354,21 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="principle" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="creational" type="462c0819:PsiDirectoryNode" />
+              <item name="prototype" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="creational" type="462c0819:PsiDirectoryNode" />
+              <item name="prototype" type="462c0819:PsiDirectoryNode" />
+              <item name="clone" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
@@ -507,15 +403,15 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.principle.openclose" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.pattern.creational.abstactFactory" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lanoipd\Desktop\code\design_pattern\src\main\java\com\pattern\creational\abstactFactory" />
+      <recent name="C:\Users\lanoipd\Desktop\code\design_pattern\src\main\java\com\pattern\creational\ordinaryFactory" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\lanoipd\Desktop\code\design_pattern\src\main\java\com\pattern\creational\abstactFactory" />
-      <recent name="C:\Users\lanoipd\Desktop\code\design_pattern\src\main\java\com\pattern\creational\ordinaryFactory" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.pattern.creational.abstactFactory" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -530,26 +426,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (2)">
+  <component name="RunManager" selected="Application.Test1">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.principle.dependenceinversion.Test" />
-      <module name="design_pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.principle.dependenceinversion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pattern.creational.abstactFactory.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.pattern.creational.prototype.clone.Test" />
       <module name="designPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pattern.creational.abstactFactory.*" />
+          <option name="PATTERN" value="com.pattern.creational.prototype.clone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -558,11 +441,24 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.principle.openclose.Test" />
-      <module name="design_pattern" />
+      <option name="MAIN_CLASS_NAME" value="com.pattern.creational.prototype.Test" />
+      <module name="designPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.principle.openclose.*" />
+          <option name="PATTERN" value="com.pattern.creational.prototype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pattern.creational.prototype.clone.Test1" />
+      <module name="designPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pattern.creational.prototype.clone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -596,17 +492,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Test (1)" />
-      <item itemvalue="Application.Test (2)" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test1" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -622,7 +513,8 @@
       <updated>1558524825336</updated>
       <workItem from="1558524826976" duration="4857000" />
       <workItem from="1558584800051" duration="6130000" />
-      <workItem from="1558595807242" duration="3100000" />
+      <workItem from="1558595807242" duration="4956000" />
+      <workItem from="1558682970355" duration="18209000" />
     </task>
     <task id="LOCAL-00001" summary="two principles">
       <created>1558528906213</created>
@@ -631,17 +523,34 @@
       <option name="project" value="LOCAL" />
       <updated>1558528906213</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="factory pattern">
+      <created>1558600291136</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558600291136</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18804000" />
+    <option name="totallyTimeSpent" value="38869000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20415778" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49833888" visible="true" weight="0.20628998" />
+      <window_info id="Structure" order="1" sideWeight="0.5016611" side_tool="true" weight="0.20628998" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -653,10 +562,10 @@
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.3986637" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32962137" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" weight="0.32962137" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" weight="0.28396437" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.32850778" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32962137" />
       <window_info active="true" anchor="bottom" id="Messages" order="12" sideWeight="0.49840087" visible="true" weight="0.32850778" />
@@ -670,37 +579,6 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26599148" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Designer" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32962137" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.32850778" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.3986637" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" weight="0.32962137" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.3986637" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49840087" weight="0.32850778" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.32995737" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -719,6 +597,21 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>tempRedBag.equals()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tempRedBag.equals(redBag)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tempRedBag instanceof RedBag</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>game instanceof Game</expression-string>
         <language-id>JAVA</language-id>
@@ -754,387 +647,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>GolangCourse instanceof ICourse</expression-string>
-        <language-id>JAVA</language-id>
-        <custom-info>javax.swing.Icon</custom-info>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>this</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/principle/openclose/ICourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/principle/openclose/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/principle/openclose/开闭原则.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="110">
-            <caret line="5" selection-start-line="5" selection-end-line="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.principle.dependenceinversion.Test">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.principle.dependenceinversion.Test</OriginalElement>
-          <nodes>
-            <node x="" y="">com.principle.dependenceinversion.Test</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="43.0" y="16.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.principle.dependenceinversion">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.principle.dependenceinversion</OriginalElement>
-          <nodes>
-            <node x="87.5" y="0.0">com.principle.dependenceinversion.Icourse</node>
-            <node x="292.0" y="230.0">com.principle.dependenceinversion.Test</node>
-            <node x="-52.0" y="251.0">com.principle.dependenceinversion.XiaoMing</node>
-            <node x="175.0" y="105.0">com.principle.dependenceinversion.GoCourse</node>
-            <node x="2.0" y="105.0">com.principle.dependenceinversion.JavaCourse</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.principle.dependenceinversion.GoCourse" target="com.principle.dependenceinversion.Icourse">
-              <point x="0.0" y="-27.5" />
-              <point x="252.5" y="80.0" />
-              <point x="203.75" y="80.0" />
-              <point x="38.75" y="27.5" />
-            </edge>
-            <edge source="com.principle.dependenceinversion.JavaCourse" target="com.principle.dependenceinversion.Icourse">
-              <point x="0.0" y="-27.5" />
-              <point x="77.5" y="80.0" />
-              <point x="126.25" y="80.0" />
-              <point x="-38.75" y="27.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-317.0" y="60.0" />
-          <SelectedNodes>
-            <node>com.principle.dependenceinversion.JavaCourse</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/principle/dependenceinversion/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/principle/dependenceinversion/XiaoMing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="e#809#810#0" expanded="true" />
-            <element signature="e#847#848#0" expanded="true" />
-            <element signature="e#789#790#0" expanded="true" />
-            <element signature="e#826#827#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/principle/dependenceinversion/依赖倒置原则.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="88">
-            <caret line="4" selection-start-line="4" selection-end-line="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/principle/dependenceinversion/JavaCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/principle/dependenceinversion/GoCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/principle/dependenceinversion/Icourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.pattern.creational.simpleFactory">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.pattern.creational.simpleFactory</OriginalElement>
-          <nodes />
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="691.0" y="276.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.pattern.creational">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.pattern.creational</OriginalElement>
-          <nodes>
-            <node x="30.0" y="0.0">com.pattern.creational.simpleFactory</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.pattern.creational.simpleFactory" target="com.pattern.creational.simpleFactory">
-              <point x="60.0" y="16.0" />
-              <point x="210.0" y="62.0" />
-              <point x="0.0" y="62.0" />
-              <point x="0.0" y="8.0" />
-              <point x="-120.0" y="-8.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-211.0" y="136.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>public</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/JapaneseImperialCalendar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="314" column="43" selection-start-line="314" selection-start-column="35" selection-end-line="314" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.Calendar">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.Calendar</OriginalElement>
-          <nodes>
-            <node x="347.99999999999994" y="1694.0">java.util.Calendar.CalendarAccessControlContext</node>
-            <node x="586.0" y="11.5">java.lang.Cloneable</node>
-            <node x="639.0" y="105.0">java.util.Calendar</node>
-            <node x="39.0" y="1337.0">java.util.GregorianCalendar</node>
-            <node x="1257.0" y="1498.5">java.util.JapaneseImperialCalendar</node>
-            <node x="694.0" y="1521.0">java.util.Calendar.Builder</node>
-            <node x="0.0" y="2133.0">sun.util.BuddhistCalendar</node>
-            <node x="742.0" y="0.0">java.lang.Comparable</node>
-            <node x="971.0" y="1694.0">java.util.Calendar.AvailableCalendarTypes</node>
-            <node x="908.0" y="11.5">java.io.Serializable</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="java.util.Calendar.CalendarAccessControlContext" target="java.util.Calendar">
-              <point x="0.0" y="-16.0" />
-              <point x="510.99999999999994" y="1317.0" />
-              <point x="749.0999999999999" y="1317.0" />
-              <point x="-73.39999999999998" y="591.0" />
-            </edge>
-            <edge source="java.util.Calendar" target="java.io.Serializable">
-              <point x="122.33333333333337" y="-591.0" />
-              <point x="944.8333333333333" y="80.0" />
-              <point x="991.0" y="80.0" />
-              <point x="0.0" y="16.0" />
-            </edge>
-            <edge source="java.util.GregorianCalendar" target="java.util.Calendar">
-              <point x="0.0" y="-373.0" />
-              <point x="183.5" y="1307.0" />
-              <point x="675.7" y="1307.0" />
-              <point x="-146.79999999999995" y="591.0" />
-            </edge>
-            <edge source="java.util.Calendar.Builder" target="java.util.Calendar">
-              <point x="0.0" y="-189.0" />
-              <point x="0.0" y="591.0" />
-            </edge>
-            <edge source="sun.util.BuddhistCalendar" target="java.util.GregorianCalendar">
-              <point x="0.0" y="-189.0" />
-              <point x="0.0" y="373.0" />
-            </edge>
-            <edge source="java.util.Calendar" target="java.lang.Cloneable">
-              <point x="-122.33333333333326" y="-591.0" />
-              <point x="700.1666666666667" y="80.0" />
-              <point x="654.0" y="80.0" />
-              <point x="0.0" y="16.0" />
-            </edge>
-            <edge source="java.util.Calendar.AvailableCalendarTypes" target="java.util.Calendar">
-              <point x="0.0" y="-16.0" />
-              <point x="1104.0" y="1317.0" />
-              <point x="895.8999999999999" y="1317.0" />
-              <point x="73.39999999999998" y="591.0" />
-            </edge>
-            <edge source="java.util.Calendar" target="java.lang.Comparable">
-              <point x="0.0" y="-591.0" />
-              <point x="822.5" y="80.0" />
-              <point x="815.0" y="80.0" />
-              <point x="0.0" y="27.5" />
-            </edge>
-            <edge source="java.util.JapaneseImperialCalendar" target="java.util.Calendar">
-              <point x="0.0" y="-211.5" />
-              <point x="1440.5" y="1307.0" />
-              <point x="969.3" y="1307.0" />
-              <point x="146.79999999999995" y="591.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="822.0" y="224.0" />
-          <SelectedNodes>
-            <node>java.util.Calendar</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>public</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/sun/security/jca/GetInstance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/designPattern.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/simpleFactory/简单工厂.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="352">
-            <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Calendar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35618">
-          <caret line="1687" column="28" selection-start-line="1687" selection-start-column="28" selection-end-line="1687" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/simpleFactory/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/simpleFactory/LeagueGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/simpleFactory/Game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/simpleFactory/CsGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/factoryMethod/CsGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/factoryMethod/Game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JAVA/com.pattern.creational.ordinaryFactory">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -1491,229 +1006,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/LeagueGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/LeagueGameFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-          <folding>
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#272#273#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/CsGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.pattern.creational.abstactFactory">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.pattern.creational.abstactFactory</OriginalElement>
-          <nodes>
-            <node x="10.5" y="186.5">com.pattern.creational.abstactFactory.LeagueGame</node>
-            <node x="188.5" y="186.5">com.pattern.creational.abstactFactory.LeagueGameArticle</node>
-            <node x="100.37675438596483" y="303.0">com.pattern.creational.abstactFactory.LeagueGameFactory</node>
-            <node x="574.0267543859649" y="0.0">com.pattern.creational.abstactFactory.Article</node>
-            <node x="271.1057017543859" y="431.0">com.pattern.creational.abstactFactory.Test</node>
-            <node x="600.5" y="186.5">com.pattern.creational.abstactFactory.CsGame</node>
-            <node x="631.9267543859648" y="303.0">com.pattern.creational.abstactFactory.CsGameFactory</node>
-            <node x="424.5" y="175.0">com.pattern.creational.abstactFactory.GameFactory</node>
-            <node x="739.5" y="186.5">com.pattern.creational.abstactFactory.CsGameArticle</node>
-            <node x="258.52675438596486" y="0.0">com.pattern.creational.abstactFactory.Game</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.pattern.creational.abstactFactory.Test" target="com.pattern.creational.abstactFactory.Game">
-              <point x="-57.375" y="-27.5" />
-              <point x="290.2307017543859" y="411.0" />
-              <point x="0.0" y="411.0" />
-              <point x="0.0" y="105.0" />
-              <point x="267.44342105263155" y="105.0" />
-              <point x="-44.583333333333314" y="27.5" />
-            </edge>
-            <edge source="com.pattern.creational.abstactFactory.LeagueGame" target="com.pattern.creational.abstactFactory.Game">
-              <point x="0.0" y="-27.5" />
-              <point x="83.5" y="115.0" />
-              <point x="285.27675438596486" y="115.0" />
-              <point x="-26.75" y="27.5" />
-            </edge>
-            <edge source="com.pattern.creational.abstactFactory.CsGameFactory" target="com.pattern.creational.abstactFactory.CsGame">
-              <point x="-35.200000000000045" y="-39.0" />
-              <point x="684.7267543859648" y="273.0" />
-              <point x="654.0" y="273.0" />
-              <point x="0.0" y="27.5" />
-            </edge>
-            <edge source="com.pattern.creational.abstactFactory.GameFactory" target="com.pattern.creational.abstactFactory.Article">
-              <point x="39.0" y="-39.0" />
-              <point x="541.5" y="155.0" />
-              <point x="622.3600877192982" y="155.0" />
-              <point x="-9.666666666666629" y="27.5" />
-            </edge>
-            <edge source="com.pattern.creational.abstactFactory.LeagueGameArticle" target="com.pattern.creational.abstactFactory.Article">
-              <point x="0.0" y="-27.5" />
-              <point x="296.5" y="145.0" />
-              <point x="603.0267543859649" y="145.0" />
-              <point x="-29.0" y="27.5" />
-            </edge>
-            <edge source="com.pattern.creational.abstactFactory.LeagueGameFactory" target="com.pattern.creational.abstactFactory.GameFactory">
-              <point x="86.40000000000003" y="-39.0" />
-              <point x="294.77675438596486" y="283.0" />
-              <point x="450.5" y="283.0" />
-              <point x="-52.0" y="39.0" />
-            </edge>
-            <edge source="com.pattern.creational.abstactFactory.CsGameFactory" target="com.pattern.creational.abstactFactory.GameFactory">
-              <point x="-70.39999999999998" y="-39.0" />
-              <point x="649.526754385965" y="283.0" />
-              <point x="554.5" y="283.0" />
-              <point x="52.0" y="39.0" />
-            </edge>
-            <edge source="com.pattern.creational.abstactFactory.Test" target="com.pattern.creational.abstactFactory.LeagueGameFactory">
-              <point x="-19.125" y="-27.5" />
-              <point x="328.4807017543859" y="401.0" />
-              <point x="208.37675438596483" y="401.0" />
-              <point x="0.0" y="39.0" />
-            </edge>
-            <edge source="com.pattern.creational.abstactFactory.GameFactory" target="com.pattern.creational.abstactFactory.Game">
-              <point x="-39.0" y="-39.0" />
-              <point x="463.5" y="125.0" />
-              <point x="320.94342105263155" y="125.0" />
-              <point x="8.916666666666686" y="27.5" />
-            </edge>
-            <edge source="com.pattern.creational.abstactFactory.LeagueGameFactory" target="com.pattern.creational.abstactFactory.Article">
-              <point x="0.0" y="-39.0" />
-              <point x="208.37675438596483" y="283.0" />
-              <point x="178.0" y="283.0" />
-              <point x="178.0" y="135.0" />
-              <point x="583.6934210526315" y="135.0" />
-              <point x="-48.33333333333337" y="27.5" />
-            </edge>
-            <edge source="com.pattern.creational.abstactFactory.LeagueGameFactory" target="com.pattern.creational.abstactFactory.LeagueGameArticle">
-              <point x="43.19999999999999" y="-39.0" />
-              <point x="251.57675438596482" y="273.0" />
-              <point x="296.5" y="273.0" />
-              <point x="0.0" y="27.5" />
-            </edge>
-            <edge source="com.pattern.creational.abstactFactory.Test" target="com.pattern.creational.abstactFactory.Article">
-              <point x="57.375" y="-27.5" />
-              <point x="404.9807017543859" y="411.0" />
-              <point x="926.0" y="411.0" />
-              <point x="926.0" y="75.0" />
-              <point x="680.3600877192982" y="75.0" />
-              <point x="48.33333333333337" y="27.5" />
-            </edge>
-            <edge source="com.pattern.creational.abstactFactory.Test" target="com.pattern.creational.abstactFactory.GameFactory">
-              <point x="19.125" y="-27.5" />
-              <point x="366.7307017543859" y="401.0" />
-              <point x="502.5" y="401.0" />
-              <point x="0.0" y="39.0" />
-            </edge>
-            <edge source="com.pattern.creational.abstactFactory.CsGame" target="com.pattern.creational.abstactFactory.Game">
-              <point x="0.0" y="-27.5" />
-              <point x="654.0" y="115.0" />
-              <point x="338.77675438596486" y="115.0" />
-              <point x="26.75" y="27.5" />
-            </edge>
-            <edge source="com.pattern.creational.abstactFactory.CsGameFactory" target="com.pattern.creational.abstactFactory.Article">
-              <point x="35.200000000000045" y="-39.0" />
-              <point x="755.1267543859649" y="283.0" />
-              <point x="729.0" y="283.0" />
-              <point x="729.0" y="95.0" />
-              <point x="641.6934210526315" y="95.0" />
-              <point x="9.666666666666629" y="27.5" />
-            </edge>
-            <edge source="com.pattern.creational.abstactFactory.LeagueGameFactory" target="com.pattern.creational.abstactFactory.Game">
-              <point x="-43.19999999999999" y="-39.0" />
-              <point x="165.17675438596484" y="283.0" />
-              <point x="167.0" y="283.0" />
-              <point x="167.0" y="125.0" />
-              <point x="303.1100877192982" y="125.0" />
-              <point x="-8.916666666666686" y="27.5" />
-            </edge>
-            <edge source="com.pattern.creational.abstactFactory.CsGameFactory" target="com.pattern.creational.abstactFactory.Game">
-              <point x="0.0" y="-39.0" />
-              <point x="719.9267543859648" y="283.0" />
-              <point x="718.0" y="283.0" />
-              <point x="718.0" y="105.0" />
-              <point x="356.6100877192982" y="105.0" />
-              <point x="44.583333333333314" y="27.5" />
-            </edge>
-            <edge source="com.pattern.creational.abstactFactory.CsGameFactory" target="com.pattern.creational.abstactFactory.CsGameArticle">
-              <point x="70.39999999999998" y="-39.0" />
-              <point x="790.3267543859649" y="283.0" />
-              <point x="827.5" y="283.0" />
-              <point x="0.0" y="27.5" />
-            </edge>
-            <edge source="com.pattern.creational.abstactFactory.LeagueGameFactory" target="com.pattern.creational.abstactFactory.LeagueGame">
-              <point x="-86.39999999999998" y="-39.0" />
-              <point x="121.97675438596485" y="283.0" />
-              <point x="83.5" y="283.0" />
-              <point x="0.0" y="27.5" />
-            </edge>
-            <edge source="com.pattern.creational.abstactFactory.CsGameArticle" target="com.pattern.creational.abstactFactory.Article">
-              <point x="0.0" y="-27.5" />
-              <point x="827.5" y="85.0" />
-              <point x="661.0267543859649" y="85.0" />
-              <point x="29.0" y="27.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-43.5" y="207.5" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/Game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.sql/java/sql/Connection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/CsGameFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-          <folding>
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1735,13 +1031,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/CsGameArticle.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/CsGameFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/Game.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/LeagueGameFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/CsGameArticle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1753,10 +1070,490 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/CsGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.pattern.creational.abstactFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.pattern.creational.abstactFactory</OriginalElement>
+          <nodes>
+            <node x="10.5" y="186.5">com.pattern.creational.abstactFactory.LeagueGame</node>
+            <node x="188.5" y="186.5">com.pattern.creational.abstactFactory.LeagueGameArticle</node>
+            <node x="574.0267543859649" y="0.0">com.pattern.creational.abstactFactory.Article</node>
+            <node x="271.1057017543859" y="431.0">com.pattern.creational.abstactFactory.Test</node>
+            <node x="100.37675438596483" y="303.0">com.pattern.creational.abstactFactory.LeagueGameFactory</node>
+            <node x="631.9267543859648" y="303.0">com.pattern.creational.abstactFactory.CsGameFactory</node>
+            <node x="600.5" y="186.5">com.pattern.creational.abstactFactory.CsGame</node>
+            <node x="424.5" y="175.0">com.pattern.creational.abstactFactory.GameFactory</node>
+            <node x="739.5" y="186.5">com.pattern.creational.abstactFactory.CsGameArticle</node>
+            <node x="258.52675438596486" y="0.0">com.pattern.creational.abstactFactory.Game</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.pattern.creational.abstactFactory.LeagueGame" target="com.pattern.creational.abstactFactory.Game">
+              <point x="0.0" y="-27.5" />
+              <point x="83.5" y="115.0" />
+              <point x="285.27675438596486" y="115.0" />
+              <point x="-26.75" y="27.5" />
+            </edge>
+            <edge source="com.pattern.creational.abstactFactory.LeagueGameArticle" target="com.pattern.creational.abstactFactory.Article">
+              <point x="0.0" y="-27.5" />
+              <point x="296.5" y="145.0" />
+              <point x="603.0267543859649" y="145.0" />
+              <point x="-29.0" y="27.5" />
+            </edge>
+            <edge source="com.pattern.creational.abstactFactory.LeagueGameFactory" target="com.pattern.creational.abstactFactory.GameFactory">
+              <point x="86.40000000000003" y="-39.0" />
+              <point x="294.77675438596486" y="283.0" />
+              <point x="450.5" y="283.0" />
+              <point x="-52.0" y="39.0" />
+            </edge>
+            <edge source="com.pattern.creational.abstactFactory.CsGameFactory" target="com.pattern.creational.abstactFactory.GameFactory">
+              <point x="-70.39999999999998" y="-39.0" />
+              <point x="649.526754385965" y="283.0" />
+              <point x="554.5" y="283.0" />
+              <point x="52.0" y="39.0" />
+            </edge>
+            <edge source="com.pattern.creational.abstactFactory.CsGame" target="com.pattern.creational.abstactFactory.Game">
+              <point x="0.0" y="-27.5" />
+              <point x="654.0" y="115.0" />
+              <point x="338.77675438596486" y="115.0" />
+              <point x="26.75" y="27.5" />
+            </edge>
+            <edge source="com.pattern.creational.abstactFactory.CsGameArticle" target="com.pattern.creational.abstactFactory.Article">
+              <point x="0.0" y="-27.5" />
+              <point x="827.5" y="85.0" />
+              <point x="661.0267543859649" y="85.0" />
+              <point x="29.0" y="27.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.5183585313174947" x="462.99999999999994" y="243.0" />
+          <SelectedNodes>
+            <node>com.pattern.creational.abstactFactory.LeagueGame</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/LeagueGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.pattern.creational.builder">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.pattern.creational.builder</OriginalElement>
+          <nodes>
+            <node x="385.0" y="619.0">com.pattern.creational.builder.GameActualBulider</node>
+            <node x="-1.0" y="575.5">com.pattern.creational.builder.GameCompany</node>
+            <node x="133.77083333333331" y="221.0">com.pattern.creational.builder.GameBuilder</node>
+            <node x="405.9" y="0.0">com.pattern.creational.builder.Game</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.pattern.creational.builder.GameCompany" target="com.pattern.creational.builder.Game">
+              <point x="-123.66666666666669" y="-39.5" />
+              <point x="61.833333333333314" y="421.0" />
+              <point x="123.27083333333331" y="421.0" />
+              <point x="123.27083333333331" y="191.0" />
+              <point x="420.7" y="191.0" />
+              <point x="-59.2" y="85.5" />
+            </edge>
+            <edge source="com.pattern.creational.builder.GameActualBulider" target="com.pattern.creational.builder.GameBuilder">
+              <point x="-84.75" y="-97.0" />
+              <point x="419.25" y="421.0" />
+              <point x="322.10416666666663" y="421.0" />
+              <point x="75.33333333333331" y="85.0" />
+            </edge>
+            <edge source="com.pattern.creational.builder.GameBuilder" target="com.pattern.creational.builder.Game">
+              <point x="0.0" y="-85.0" />
+              <point x="246.77083333333331" y="201.0" />
+              <point x="450.3" y="201.0" />
+              <point x="-29.60000000000001" y="85.5" />
+            </edge>
+            <edge source="com.pattern.creational.builder.GameCompany" target="com.pattern.creational.builder.GameBuilder">
+              <point x="0.0" y="-39.5" />
+              <point x="185.5" y="421.0" />
+              <point x="171.4375" y="421.0" />
+              <point x="-75.33333333333331" y="85.0" />
+            </edge>
+            <edge source="com.pattern.creational.builder.GameActualBulider" target="com.pattern.creational.builder.Game">
+              <point x="-28.25" y="-97.0" />
+              <point x="475.75" y="421.0" />
+              <point x="505.7708333333333" y="421.0" />
+              <point x="505.7708333333333" y="201.0" />
+              <point x="479.9" y="201.0" />
+              <point x="-2.8421709430404007E-14" y="85.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-349.0" y="388.0" />
+          <SelectedNodes>
+            <node>com.pattern.creational.builder.GameActualBulider</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="2950" selection-start-line="2950" selection-end-line="2950" />
+          <folding>
+            <element signature="e#118101#118102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="244" column="18" selection-start-line="244" selection-start-column="18" selection-end-line="244" selection-end-column="18" />
+          <folding>
+            <element signature="e#10225#10226#0" expanded="true" />
+            <element signature="e#10308#10309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="896" selection-start-line="896" selection-end-line="896" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/builder/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/builder/GameBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/builder/GameActualBulider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#707#708#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.pattern.creational.builder.commonBuilder">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.pattern.creational.builder.commonBuilder</OriginalElement>
+          <nodes>
+            <node x="87.625" y="581.0">com.pattern.creational.builder.commonBuilder.Test</node>
+            <node x="0.0" y="0.0">com.pattern.creational.builder.commonBuilder.Game.GameBuilder</node>
+            <node x="34.131249999999994" y="336.0">com.pattern.creational.builder.commonBuilder.Game</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.pattern.creational.builder.commonBuilder.Game" target="com.pattern.creational.builder.commonBuilder.Game.GameBuilder">
+              <point x="-62.625" y="-97.5" />
+              <point x="55.006249999999994" y="311.0" />
+              <point x="27.599999999999994" y="311.0" />
+              <point x="-110.4" y="143.0" />
+            </edge>
+            <edge source="com.pattern.creational.builder.commonBuilder.Test" target="com.pattern.creational.builder.commonBuilder.Game">
+              <point x="-38.25" y="-27.5" />
+              <point x="125.875" y="556.0" />
+              <point x="117.63125" y="556.0" />
+              <point x="0.0" y="97.5" />
+            </edge>
+            <edge source="com.pattern.creational.builder.commonBuilder.Game.GameBuilder" target="com.pattern.creational.builder.commonBuilder.Game">
+              <point x="0.0" y="143.0" />
+              <point x="20.875" y="-97.5" />
+            </edge>
+            <edge source="com.pattern.creational.builder.commonBuilder.Test" target="com.pattern.creational.builder.commonBuilder.Game.GameBuilder">
+              <point x="38.25" y="-27.5" />
+              <point x="202.375" y="556.0" />
+              <point x="211.63125" y="556.0" />
+              <point x="211.63125" y="311.0" />
+              <point x="248.39999999999998" y="311.0" />
+              <point x="110.39999999999998" y="143.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-461.5" y="183.0" />
+          <SelectedNodes>
+            <node>com.pattern.creational.builder.commonBuilder.Test</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/builder/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="59" selection-end-column="5" />
+          <folding>
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#714#715#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+            <element signature="e#874#875#0" expanded="true" />
+            <element signature="e#913#914#0" expanded="true" />
+            <element signature="e#948#949#0" expanded="true" />
+            <element signature="e#1004#1005#0" expanded="true" />
+            <element signature="e#1052#1053#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/builder/commonBuilder/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/builder/commonBuilder/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/builder/GameCompany.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="233" column="24" lean-forward="true" selection-start-line="233" selection-start-column="24" selection-end-line="233" selection-end-column="24" />
+          <folding>
+            <element signature="e#3454#3455#0" expanded="true" />
+            <element signature="e#3479#3480#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/builder/建造者模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="132">
+            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/abstactFactory/工厂方法总结.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="22">
+            <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/simpleFactory/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/simpleFactory/LeagueGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/simpleFactory/GameFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        <state relative-caret-position="243">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/simpleFactory/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/prototype/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/prototype/RedBagUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/prototype/RedBag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+          <folding>
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/prototype/clone/Pig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/prototype/clone/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/prototype/原型模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="416">
+            <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/singleton/HungrySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pattern/creational/prototype/clone/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

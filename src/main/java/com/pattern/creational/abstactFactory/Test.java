@@ -1,7 +1,5 @@
 package com.pattern.creational.abstactFactory;
 
-import com.sun.org.apache.bcel.internal.generic.NEW;
-
 public class Test {
 
     public static void main(String[] args) {
@@ -30,10 +28,10 @@ public class Test {
         //Game game=gameFactory.getGame(CsGame.class);
         //game.play();
 
-        GameFactory factory= new LeagueGameFactory();
+        GameFactory factory = new LeagueGameFactory();
 
-        Game game=factory.getGame();
-        Article article=factory.getArticle();
+        Game game = factory.getGame();
+        Article article = factory.getArticle();
         game.play();
         article.show();
 

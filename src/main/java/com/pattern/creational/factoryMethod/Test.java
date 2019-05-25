@@ -24,8 +24,8 @@ public class Test {
         //game=gameFactory.getGame(CsGame.class);
         //game.play();
 
-        GameFactory gameFactory=new CsGameFactory();
-        Game game=gameFactory.getGame(CsGame.class);
+        GameFactory gameFactory = new CsGameFactory();
+        Game game = gameFactory.getGame(CsGame.class);
         game.play();
 
 

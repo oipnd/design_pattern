@@ -1,7 +1,5 @@
 package com.pattern.creational.abstactFactory;
 
-import com.sun.org.apache.xerces.internal.xs.XSParticle;
-
 public interface GameFactory {
 
     //v2 工厂类包含具体实现逻辑，不符合开闭原则，因为不具备扩展性，主要原因在于需要依赖于其它类。
@@ -15,6 +13,7 @@ public interface GameFactory {
 
     //v3
     Game getGame();
+
     Article getArticle();
 }
 

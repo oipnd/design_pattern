@@ -1,7 +1,6 @@
 package com.pattern.creational.simpleFactory;
 
 import java.lang.reflect.InvocationTargetException;
-import java.util.Calendar;
 
 public class GameFactory {
 
@@ -19,7 +18,7 @@ public class GameFactory {
         Game game = null;
         try {
             // java 9中newinstance被替代为下面这个
-            game= (Game) clazz.getDeclaredConstructor().newInstance();
+            game = (Game) clazz.getDeclaredConstructor().newInstance();
         } catch (InstantiationException e) {
             e.printStackTrace();
         } catch (IllegalAccessException e) {

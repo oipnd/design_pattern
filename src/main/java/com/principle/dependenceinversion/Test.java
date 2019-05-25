@@ -19,7 +19,7 @@ public class Test {
         //xiaoMing.study();
 
         //v4 v3的修改，可以通过setter实现注入
-        XiaoMing xiaoMing=new XiaoMing();
+        XiaoMing xiaoMing = new XiaoMing();
         xiaoMing.setIcourse(new JavaCourse());
         xiaoMing.study();
         xiaoMing.setIcourse(new GoCourse());

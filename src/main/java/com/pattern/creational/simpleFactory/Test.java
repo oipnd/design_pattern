@@ -18,10 +18,10 @@ public class Test {
         //game.play();
 
         //v3 通过反射，直接传入class，
-        GameFactory gameFactory=new GameFactory();
-        Game game=gameFactory.getGame(LeagueGame.class);
+        GameFactory gameFactory = new GameFactory();
+        Game game = gameFactory.getGame(LeagueGame.class);
         game.play();
-        game=gameFactory.getGame(CsGame.class);
+        game = gameFactory.getGame(CsGame.class);
         game.play();
 
 

@@ -1,7 +1,5 @@
 package com.principle.openclose;
 
-import java.nio.channels.Pipe;
-
 public class GolangDiscoutCourse extends GolangCourse {
 
     public GolangDiscoutCourse(String name, int id, double price) {
@@ -10,9 +8,10 @@ public class GolangDiscoutCourse extends GolangCourse {
 
     @Override
     public Double getPrice() {
-        return super.getPrice()*0.8;
+        return super.getPrice() * 0.8;
     }
-    public double getOriginPrice(){
+
+    public double getOriginPrice() {
         return super.getPrice();
     }
 }
